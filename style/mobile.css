@@ -1,0 +1,35 @@
+.container {
+    max-width: 97%;
+    margin: auto;
+}
+
+.img-text {
+    grid-gap: 0 1rem;
+}
+
+.img-text img {
+    border-radius: 20px;
+    width: 100%;
+}
+
+#bottom-nav .fa {
+    font-size: 20px;
+}
+
+p {
+    font-size: .75rem;
+}
+
+.small {
+    font-size: .65rem;
+}
+
+#top-nav {
+    padding: .5rem;
+    border-bottom: 1px solid #f4f4f4;
+}
+
+#search .container {
+    max-width: 97%;
+    margin: auto;
+}

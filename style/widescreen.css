@@ -1,0 +1,67 @@
+.fa {
+    font-size: 30px;
+}
+
+body p {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+#bottom-nav ul li a i {
+    padding: .85rem;
+    font-size: 30px;
+}
+
+.img-text > :nth-child(4) {
+    width: 75%;
+    margin-bottom: .5rem;
+}
+
+i.fa.fa-home::before{
+    font-size: 42px;
+}
+i.fa.fa-search::before{
+    font-size: 40px;
+}
+i.fa.fa-spinner::before{
+    font-size: 40px;
+}
+i.fa.fa-bell-o::before{
+    font-size: 40px;
+}
+i.fa.fa-envelope::before{
+    font-size: 40px;
+}
+i.fa.fa-user-circle::before{
+    font-size: 30px;
+}
+i.fa.fa-twitter::before{
+    font-size: 30px;
+}
+i.fa.fa-star-o::before{
+    font-size: 30px;
+}
+i.fa.fa-cog::before{
+    font-size: 30px;
+}
+
+#spaces h3, #spaces h5{
+font-size: 1.5rem;
+}
+#message h2{
+font-size: 3.5rem;
+}
+#message p{
+    font-size: 1.9rem;
+}
+#message input .btn{
+font-size: 1.7rem;
+}
+
+#home, #notifications, #spaces, #search{
+    margin-bottom: 8rem;
+}
+
+.search-bg-text{
+font-size: 2rem;
+}
